@@ -37,3 +37,5 @@ git fetch origin
 git branch -a
 git log --graph --oneline --decorate --all
 ```
+
+comunque federico come capo è fastidioso XD
